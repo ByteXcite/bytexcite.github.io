@@ -1,0 +1,18 @@
+{
+    "name": "bytexcite/homepage",
+    "description": "Official homepage of ByteXcite, a service-oriented IT startup based in Islamabad, Pakistan.",
+    "type": "project",
+    "require": {
+        "components/jquery": "^1.12.4",
+        "twitter/bootstrap": "^3.3.7",
+        "components/font-awesome": "^4.6.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Muhammad Saifullah Khan",
+            "email": "sfllhkhan95@live.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
