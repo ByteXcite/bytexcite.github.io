@@ -3,7 +3,7 @@
     "description": "Official homepage of ByteXcite, a service-oriented IT startup based in Islamabad, Pakistan.",
     "type": "project",
     "require": {
-        "components/jquery": "^1.12.4",
+        "components/jquery": "^3.3.1",
         "twitter/bootstrap": "^3.3.7",
         "components/font-awesome": "^4.6.3"
     },
