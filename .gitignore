@@ -1,3 +1,6 @@
+# Project dependencies
+/vendor/
+
 # OS files
 Desktop.ini
 .DS_STORE
