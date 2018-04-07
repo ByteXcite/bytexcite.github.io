@@ -1,2 +1,4 @@
-# Windows configuration files
-desktop.ini
+# OS files
+Desktop.ini
+.DS_STORE
+Icon
